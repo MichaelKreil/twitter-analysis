@@ -1,0 +1,21 @@
+{
+  "name": "twitter-analysis",
+  "version": "0.0.1",
+  "description": "Framework, Daten und Ergebnisse der Twitter-Analyse zu Social Bots, Fake News und Filterblasen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelKreil/twitter-analysis.git"
+  },
+  "author": "Michael Kreil",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/MichaelKreil/twitter-analysis/issues"
+  },
+  "homepage": "https://github.com/MichaelKreil/twitter-analysis#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "level": "^2.1.1",
+    "request": "^2.83.0"
+  }
+}

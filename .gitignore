@@ -1,0 +1,3 @@
+config
+cache/*/
+node_modules
