@@ -1,4 +1,5 @@
-config
 cache/*/
+config
+data/hashtags/IranProtests
 node_modules
 package-lock.json
