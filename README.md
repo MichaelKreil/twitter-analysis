@@ -12,4 +12,17 @@ The core of the twitter scraper is in the [`lib`](lib) folder.
 - code is in [`bin/hashtags`](bin/hashtags)
 - resulting data is in [`data/hashtags`](data/hashtags)
 
+## What about the other data?
+
+Well, I was sure it would be much easier to publish the data. But basically there are 3 problems:
+
+1. I’m not allowed to publish raw data, because it violates the Twitter Developer Guidelines.
+2. I couldn’t find cheap storage.
+3. It's hard work, I usually try to focus on 20 projects simultanously, so I don't know what you need. 
+
+At least I published the metadata of 1.6 million german Twitter accounts: https://zenodo.org/record/1135171
+
+So here is the deal:
+
+**If you need anything else, or if necessary data, code or documentation is missing, just open a GitHub issue and I’ll try to fix that!**
 
